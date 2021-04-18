@@ -1,0 +1,12 @@
+/mxbuild/
+**/.checkstyle
+**/.classpath
+**/.externalToolBuilders
+**/.factorypath
+**/.idea
+**/.project
+**/.pydevproject
+**/.settings/
+**/*.pyc
+**/eclipse-launches/
+/.metadata/
